@@ -1,0 +1,34 @@
+CREATE TABLE JUGADOR
+(
+   Nombre             CHAR(-1) PRIMARY KEY,
+   Partidas_ganadas   NUMBER        NOT NULL,
+   Fecha_creación     DATE        NOT NULL,
+   Correo             CHAR(-1)        NOT NULL,
+   Hash_Contraseña    CHAR(-1)        NOT NULL,
+   Foto_perfil        CHAR(-1)
+);
+
+CREATE TABLE PARTIDA
+(
+   Id_partida   NUMBER PRIMARY KEY,
+   Fecha        DATE        NOT NULL
+);
+
+CREATE TABLE JUEGA
+(
+   Puesto               CHAR(-1)        NOT NULL,
+   JUGADOR_Nombre       CHAR(-1),
+   PARTIDA_Id_partida   NUMBER,
+   PRIMARY KEY (JUGADOR_Nombre,PARTIDA_Id_partida),
+   FOREIGN KEY (JUGADOR_Nombre) REFERENCES JUGADOR(Nombre),
+   FOREIGN KEY (PARTIDA_Id_partida) REFERENCES PARTIDA(Id_partida)
+);
+
+CREATE TABLE AMISTAD
+(
+   JUGADOR_Nombre   CHAR(-1),
+   JUGADOR_Nombre   CHAR(-1),
+   PRIMARY KEY (JUGADOR_Nombre,JUGADOR_Nombre),
+   FOREIGN KEY (JUGADOR_Nombre) REFERENCES JUGADOR(Nombre),
+   FOREIGN KEY (JUGADOR_Nombre) REFERENCES JUGADOR(Nombre)
+);
