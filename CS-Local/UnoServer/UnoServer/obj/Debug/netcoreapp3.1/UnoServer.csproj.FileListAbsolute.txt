@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.exe
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.deps.json
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.runtimeconfig.json
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.runtimeconfig.dev.json
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.dll
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\bin\Debug\netcoreapp3.1\UnoServer.pdb
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.AssemblyInfo.cs
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.dll
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.pdb
+C:\Users\james\Desktop\Universidad\Semestre6\ProyectoSoftware\Server\UnoServer\UnoServer\obj\Debug\netcoreapp3.1\UnoServer.genruntimeconfig.cache
