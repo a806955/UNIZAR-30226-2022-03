@@ -5,9 +5,9 @@ using UnityEngine.UI;
 [System.Serializable]
 
 
-
 public class Card 
 {
+    //Todos los campos de los que consta una carta:
     public int id;
     public int valor;
     public string color;

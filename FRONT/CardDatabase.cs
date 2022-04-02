@@ -6,6 +6,7 @@ public class CardDatabase : MonoBehaviour
 {
     public static List<Card> cardList = new List<Card>();
 
+    //Se declaran todas las cartas del mazo
     void Awake()
     {   
         /************************************* ROJAS ******************************************/
